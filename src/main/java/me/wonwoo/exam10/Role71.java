@@ -1,6 +1,7 @@
 package me.wonwoo.exam10;
 
 import java.io.*;
+import java.util.function.Function;
 
 
 /**
